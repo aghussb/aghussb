@@ -20,21 +20,13 @@
 </a>
 </div>
 
-
-
-**Languages and Tools:** 
-
 <p>
   <a href="https://github.com/aghussb">
     <img width="55%" align="right" alt="Aghus Setio Bakti github stats" src="https://github-readme-stats.vercel.app/api?username=aghussb&show_icons=true&hide_border=true" />
   </a>
 
- - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- 🏢 I’m currently working on [ITPI Technology](https://itpi.co.id/)
+- 🌱 I’m currently learning Angular CLI and AdonisJS
+- ⚙️ Daily use: `.php`, `.js`, `.html`, `.css`
  
 </p>
