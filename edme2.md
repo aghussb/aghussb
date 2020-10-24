@@ -24,7 +24,8 @@
   <a href="https://github.com/aghussb">
     <img width="55%" align="right" alt="Aghus Setio Bakti github stats" src="https://github-readme-stats.vercel.app/api?username=aghussb&show_icons=true&hide_border=true" />
   </a>
-
+ 
+- 😀 You can call me Aghus
 - 🏢 I’m currently working on [ITPI Technology](https://itpi.co.id/)
 - 🌱 I’m currently learning Angular CLI and AdonisJS
 - ⚙️ Daily use: `.php`, `.js`, `.html`, `.css`
