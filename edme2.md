@@ -6,9 +6,9 @@
 <h2 align="center">Hi, I'm Aghus Setio Bakti.</h2>
 
 <div align="center">
-<a href="https://github.com/aghussb">
+<!-- <a href="https://github.com/aghussb">
 <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github"/>
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/aghus-setio-bakti-5434111b4/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"/>
 </a>
