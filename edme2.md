@@ -1,5 +1,5 @@
 <!-- Any image aligned to the right. Beware the width -->
-<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/aghussb/aghussb/c2538f6e8a37d372d20d7853aefc8b998ff52cb0/assets/svg/github-readme.svg" />
 &nbsp;
 &nbsp;
 <!-- Your title -->
