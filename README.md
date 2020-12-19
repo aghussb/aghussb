@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <p align="center">
- <img width="700px" alt="Github" src="https://raw.githubusercontent.com/aghussb/aghussb/e4d311ead4ea2f12632641a8610de63a627bd4d6/assets/svg/freepik-9800.svg" />
+ <img width="600px" alt="Github" src="https://raw.githubusercontent.com/aghussb/aghussb/e4d311ead4ea2f12632641a8610de63a627bd4d6/assets/svg/freepik-9800.svg" />
 </p>
 <!-- Your title -->
 <h2 align="center">Hi, I'm Aghus Setio Bakti.</h2>
