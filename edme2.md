@@ -1,7 +1,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/aghussb/aghussb/e4d311ead4ea2f12632641a8610de63a627bd4d6/assets/svg/freepik-9800.svg" />
 &nbsp;
-&nbsp;
+&nbsp; 
 <!-- Your title -->
 <h2 align="center">Hi, I'm Aghus Setio Bakti.</h2>
 
