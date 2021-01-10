@@ -27,7 +27,7 @@
  
 - 😀 You can call me Aghus
 - 🏢 I’m currently working on [ITPI Technology](https://itpi.co.id/)
-- ⚙️ Daily use: `.php`, `.js`, `.html`, `.css`
+- ⚙️ Daily use: `.php`, `.js`, `.html`, `.css`, some `.py` (python)
  
 </p>
 <!-- 🌱 I’m currently learning Angular CLI -->
