@@ -32,8 +32,5 @@
     <img width="50%" align="left" alt="Aghus Setio Bakti github stats" src="https://github-readme-stats.vercel.app/api?username=aghussb&show_icons=true&hide_border=true" />
   </a>
  </p>
- <a href="https://github.com/aghussb">
-  <img width="41%" align="right" alt="Aghus Setio Bakti github language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghussb&show_icons=true&hide_border=true&layout=compact" />
- </a>
 
 <!-- 🌱 I’m currently learning Angular CLI -->
