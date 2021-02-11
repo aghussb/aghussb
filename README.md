@@ -4,7 +4,6 @@
 </p>
 <!-- Your title -->
 <h2 align="center">Hi, I'm Aghus Setio Bakti.</h2>
-&nbsp;
 <div align="center">
 <!-- <a href="https://github.com/aghussb">
 <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github"/>
