@@ -19,11 +19,10 @@
    <img src="https://img.shields.io/badge/-Website-informational?style=flat&logo=curl&logoColor=white" alt="Website"/>
 </a>
 </div>
-
-<p>
-  <a href="https://github.com/aghussb">
+<a href="https://github.com/aghussb">
     <img width="55%" align="right" alt="Aghus Setio Bakti github stats" src="https://github-readme-stats.vercel.app/api?username=aghussb&show_icons=true&hide_border=true" />
   </a>
+<p>
  
 - 😀 You can call me Aghus
 - 🏢 I’m currently working on [ITPI Technology](https://itpi.co.id/)
