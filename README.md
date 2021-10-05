@@ -1,7 +1,3 @@
-<!-- ### Hi there 👋 -->
-<p align="center">
- <img width="600px" alt="Github" src="https://raw.githubusercontent.com/aghussb/aghussb/e4d311ead4ea2f12632641a8610de63a627bd4d6/assets/svg/freepik-9800.svg" />
-</p>
 <!-- Your title -->
 <h2 align="center">Hi, I'm Aghus Setio Bakti.</h2>
 <div align="center">
@@ -24,13 +20,4 @@
 - 😀 You can call me Aghus
 - 🏢 I’m currently working on [ITPI Technology](https://itpi.co.id/)
 - ⚙️ Daily use: `.php`, `.js`, `.html`, `.css`, some `.py` (python)
- 
-</p>
- </div>
- <p>
-  <a href="https://github.com/aghussb">
-    <img width="50%" align="left" alt="Aghus Setio Bakti github stats" src="https://github-readme-stats.vercel.app/api?username=aghussb&show_icons=true&hide_border=true" />
-  </a>
- </p>
-
 <!-- 🌱 I’m currently learning Angular CLI -->
