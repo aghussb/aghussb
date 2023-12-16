@@ -18,6 +18,6 @@
  <p>
  
 - 😀 You can call me Aghus
-- 🏢 I’m currently working on [ITPI Technology](https://itpi.co.id/)
-- ⚙️ Daily use: `.php`, `.js`, `.html`, `.css`, some `.py` (python)
+<!-- - 🏢 I’m currently working on [ITPI Technology](https://itpi.co.id/) -->
+- ⚙️ Daily use: `.php`, `.js`, `.html`, `.css`, `.py`
 <!-- 🌱 I’m currently learning Angular CLI -->
